@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/vezdecod-vizitka-miniapp/static/js/main.b0a4e32c.chunk.js",
-    "main.js.map": "/vezdecod-vizitka-miniapp/static/js/main.b0a4e32c.chunk.js.map",
+    "main.js": "/vezdecod-vizitka-miniapp/static/js/main.4add23dd.chunk.js",
+    "main.js.map": "/vezdecod-vizitka-miniapp/static/js/main.4add23dd.chunk.js.map",
     "runtime-main.js": "/vezdecod-vizitka-miniapp/static/js/runtime-main.6eac3f03.js",
     "runtime-main.js.map": "/vezdecod-vizitka-miniapp/static/js/runtime-main.6eac3f03.js.map",
     "static/css/2.a2ab3232.chunk.css": "/vezdecod-vizitka-miniapp/static/css/2.a2ab3232.chunk.css",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.6eac3f03.js",
     "static/css/2.a2ab3232.chunk.css",
     "static/js/2.47a1496c.chunk.js",
-    "static/js/main.b0a4e32c.chunk.js"
+    "static/js/main.4add23dd.chunk.js"
   ]
 }
